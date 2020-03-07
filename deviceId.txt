@@ -1,0 +1,4 @@
+List of devices attached
+LKX0217A22000341	device
+T7G0215804005237	device
+
